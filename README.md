@@ -1,1 +1,1 @@
-# AOJ-ITP1
+# AOJ
